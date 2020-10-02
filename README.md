@@ -16,6 +16,12 @@ Click on one of the following to download. These are all 1 page long, and look
 great when printed. Consider printing to hang up near your computer as you code
 or learn a new programming language!
 
+### Modern HTML/CSS (2020)
+
+It is the latest cheat-sheet for HTML/CSS of 2020 which can be more helpful to others and it is also more UI interactive this time.Hope it would help you all.
+It is also known as Perioidc Table of HTML/CSS:[https://www.calcresult.com/reference/development/HTML5-periodic-table.html]
+Happy Coding!!!
+
 
 ### Modern HTML/CSS (2019)
 
